@@ -1,20 +1,9 @@
-# built application files
-*.apk
-*.ap_
+<!DOCTYPE html>
+<html>
+<body>
 
-# files for the dex VM
-*.dex
+<h2>Norwegian Mountain Trip</h2>
+<img border="0" src="/images/pulpit.jpg" alt="Pulpit rock" width="304" height="228">
 
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Eclipse project files
-.classpath
-.project
+</body>
+</html>
